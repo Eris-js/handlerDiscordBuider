@@ -1,0 +1,36 @@
+{
+  "name": "handlerdiscordbuider",
+  "version": "0.0.1",
+  "description": "Source code bot discord use @discordjs/builders",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProCoderEris/handlerDiscordBuider.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "bot",
+    "eris"
+  ],
+  "author": "Eris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProCoderEris/handlerDiscordBuider/issues"
+  },
+  "homepage": "https://github.com/ProCoderEris/handlerDiscordBuider#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "@discordjs/voice": "^0.9.0",
+    "axios": "^0.27.2",
+    "discord-api-types": "^0.33.0",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
